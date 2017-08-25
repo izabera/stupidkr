@@ -15,8 +15,8 @@ int main() {
   myputs3("bar", 1. , 2  , 3  , 4.4);
   myputs3("baz");
 
-//myputs3("foo", 1.1, 2.2, 3.3, 4.4);
-//myputs3("bar", 1. , 2  , 3  , 4.4);
+/*myputs3("foo", 1.1, 2.2, 3.3, 4.4);*/
+/*myputs3("bar", 1. , 2  , 3  , 4.4);*/
   myputs4("baz");
   return 13;
 }
